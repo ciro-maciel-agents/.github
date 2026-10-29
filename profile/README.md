@@ -22,7 +22,7 @@ Ainda não há planos, e nada é cobrado.
 
 ## Baixe de graça: seis apps para Mac, de código aberto
 
-Nativos, MIT, em português e inglês. Se um deles te ajudou, **deixe uma estrela** no repositório. É o que faz outra pessoa encontrá-lo.
+Nativos, MIT, assinados e notarizados pela Apple, em português e inglês. Se um deles te ajudou, **deixe uma estrela** no repositório. É o que faz outra pessoa encontrá-lo.
 
 | App | O que faz | Instalar |
 |---|---|---|
@@ -74,4 +74,4 @@ Cada agente tem cargo, nível de confiança e uma métrica que diz se ele serve.
 
 [ciromaciel.click](https://ciromaciel.click/?ref=github-agents) · [myagents.click](https://myagents.click/?ref=github-agents)
 
-<sub>**In English.** Agents puts AI to work in your tools: Assistant (an agent per job, each with its own cloud computer, asking before it sends, pays, deletes or publishes), Connectors (36 remote MCP servers) and Brain (memory for your agents). This organization holds the repositories the Assistant's agents work in. Six free, open-source (MIT) Mac apps by the same author: [Cleaner](https://github.com/ciro-maciel/cleaner), [Screenshots](https://github.com/ciro-maciel/screenshots), [Speech to Text](https://github.com/ciro-maciel/speech-to-text), [Text to Speech](https://github.com/ciro-maciel/text-to-speech), [Windows](https://github.com/ciro-maciel/windows) and [Assistant](https://github.com/ciro-maciel/voice-assistant). A star helps others find them.</sub>
+<sub>**In English.** Agents puts AI to work in your tools: Assistant (an agent per job, each with its own cloud computer, asking before it sends, pays, deletes or publishes), Connectors (36 remote MCP servers) and Brain (memory for your agents). This organization holds the repositories the Assistant's agents work in. Six free, open-source (MIT) Mac apps, signed and notarized by Apple, by the same author: [Cleaner](https://github.com/ciro-maciel/cleaner), [Screenshots](https://github.com/ciro-maciel/screenshots), [Speech to Text](https://github.com/ciro-maciel/speech-to-text), [Text to Speech](https://github.com/ciro-maciel/text-to-speech), [Windows](https://github.com/ciro-maciel/windows) and [Assistant](https://github.com/ciro-maciel/voice-assistant). A star helps others find them.</sub>
